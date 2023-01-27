@@ -2,5 +2,4 @@
 Data model using Excel
 
 ## Software 
-ExcelPower - Query Editor, power pivot 
-
+Excel-Power Query Editor, Power pivot
