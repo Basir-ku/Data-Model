@@ -1,7 +1,6 @@
 # Data-Model
 Data model using Excel
 
-## Software 
-Excel-Power Query Editor, Power pivot
-
-## Normalized data cleaning via Query Editor 
+## Tools: Excel-Power Query Editor, Power pivot
+1. Normalized data cleaning via Query Editor
+2. data model using power pivot
